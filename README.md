@@ -9,7 +9,7 @@ Web Audio API を使った、雨の環境音を再生するシンプルなサイ
 
 ---
 
-## [English](docs/english.md) || [한국어](docs/korean.md) || [Français](docs/french.md) || **日本語**
+## [English](docs/english.md) | [한국어](docs/korean.md) | [Français](docs/french.md) | **日本語**
 
 ## ✨ 機能
 
