@@ -1,10 +1,15 @@
 
-# RainSound Player
+
+# rain-focus
+>[!WARNING]
+> このREADME.mdは生成AIによって作成されました
 
 Web Audio API を使った、雨の環境音を再生するシンプルなサイトです。  
 音声を事前ロードし、フェードイン／フェードアウト、音量保存、ループ再生などを行います。
 
 ---
+
+## [English](docs/english.md) [한국어](docs/korean.md) [Français](docs/french.md)
 
 ## ✨ 機能
 
@@ -60,12 +65,4 @@ project/
 - フェードは `linearRampToValueAtTime()` 使用  
 
 ---
-
-## 📜 ライセンス
-
-お好みのライセンスを追加してください（MIT 推奨）。
-
----
-
-必要ならスクリーンショット・デモURL・より丁寧な説明文なども追加できるよ。```
 
