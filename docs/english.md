@@ -1,7 +1,3 @@
-もちろんです！以下は、日本語版の内容を正確かつ自然な英語に翻訳した **English version of README.md** です。ヘッダーの言語リンクも英語版用に適切に調整しています。
-
----
-
 # rain-focus
 
 >[!WARNING]  
@@ -12,7 +8,7 @@ It preloads the audio and supports fade-in/fade-out, volume persistence, and sea
 
 ---
 
-## [日本語](../../README.md) | [한국어](../korean.md) | [Français](../french.md) | **English**
+## [日本語](../README.md) | [한국어](korean.md) | [Français](french.md) | **English**
 
 ## ✨ Features
 

@@ -8,7 +8,7 @@ Le son est préchargé, avec prise en charge du fondu enchaîné (fade in/out), 
 
 ---
 
-## [日本語](../../README.md) | [한국어](../korean.md) | **Français** | [English](english.md)
+## [日本語](../README.md) | [한국어](korean.md) | **Français** | [English](english.md)
 
 ## ✨ Fonctionnalités
 

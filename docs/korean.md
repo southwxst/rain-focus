@@ -8,7 +8,7 @@ Web Audio API를 활용하여 **비 오는 소리**(ambient rain sound)를 재�
 
 ---
 
-## [日本語](../../README.md) | **한국어** | [Français](../french.md) | [English](english.md)
+## [日本語](../README.md) | **한국어** | [Français](french.md) | [English](english.md)
 
 ## ✨ 기능
 
